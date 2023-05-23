@@ -1,0 +1,56 @@
+Pizza
+Burger
+Sushi
+Pasta
+Salad
+Steak
+Taco
+Sandwich
+Ice Cream
+Chicken Curry
+Fried Rice
+Soup
+Pancakes
+Cheesecake
+Donuts
+Ramen
+Cupcake
+Chocolate
+Lasagna
+Pad Thai
+Mango Sticky Rice
+Sashimi
+Pho
+Biryani
+Enchiladas
+Gyoza
+Hamburger
+Fajitas
+Croissant
+Macaron
+Creme Brulee
+Churros
+Dim Sum
+Tiramisu
+Ceviche
+Cinnamon Roll
+Miso Soup
+Lobster Bisque
+Shrimp Scampi
+Goulash
+Beef Stroganoff
+Sushi Burrito
+Philly Cheesesteak
+Fish and Chips
+Crab Cakes
+Chicken Parmesan
+Beef Bulgogi
+Baklava
+Croque Monsieur
+Peking Duck
+Samosa
+Egg Benedict
+Cajun Jambalaya
+Butter Chicken
+
+
