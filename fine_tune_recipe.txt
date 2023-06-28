@@ -1,4 +1,5 @@
-<|startoftext|>
+# Existing fine-tuned text
+fine_tuned_text = """
 Title: Spaghetti Carbonara
 Ingredients:
 - 200g spaghetti
@@ -16,4 +17,12 @@ Instructions:
 5. Drain the spaghetti and add it to the pan with pancetta.
 6. Turn off the heat and wait for 2 minutes, then add the egg mixture and quickly stir to create a creamy sauce. If it's too thick, add some pasta water.
 7. Serve immediately with some extra cheese on top.
-<|endoftext|>
+"""
+
+# Update the fine-tuned text with the modified instruction
+modified_text = fine_tuned_text.replace(
+    "2. Meanwhile, cut the pancetta into small chunks and add it to a hot pan with some oil.",
+    "2. Meanwhile, heat a pan over medium heat and add the diced pancetta. Cook until crispy and golden brown, stirring occasionally."
+)
+
+print(modified_text)
